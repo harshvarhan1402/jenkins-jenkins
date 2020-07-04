@@ -1,0 +1,27 @@
+Started by user [8mha:////4JPktyxxRWnCoVijRwFbGecefVmwP45tcBnMf67kUL96AAAApB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzhEgYJ/dLi1CL94sSc1OK0/KLk1JSizJyc1KJiAJ3zul3NAAAA[0msalesforce-drillers
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[8mha:////4LNMyX8zizTmFJTApCeR34Xs6ga2ZTTVo/A+7c5dhdlQAAAAqx+LCAAAAAAAAP9b85aBtbiIQSujNKU4P0+vIKc0PTOvWC8xrzgzOT8nv0gvMbkkEyjhCKb88ktSdwVsu2efuqidiYHRh4EDIu2ZUsIg5JOVWJaon5OYl64fXFKUmZduXVHEIAU1ODk/rzg/J1XPGUKDDGKAAEYmBoaKghIGldQkcyOjVMtUXRPDtERdE6M0Q11LS1MT3TQjYwPTpFRjo0QLYwA4bMclrwAAAA==[0m[my-first-job] $ /bin/sh -xe /tmp/jenkins1581344562664756450.sh
++ set +x
+[1;33m[####Info###]    [0m This is information message
+[1;31m[Error]   [0m Houston we have a problem
+[1;32m[Success] [0m Great!!!
+Foreground colors
+[31m Red [0m
+[32m Green [0m
+[33m Yellow [0m
+[34m Blue [0m
+[35m Magneta [0m
+[36m Cyan [0m
+Background colors
+[41m Red [0m
+[42m Green [0m
+[43m Yellow [0m
+[44m Blue [0m
+[45m Magneta [0m
+[46m Cyan [0m
+Different combinations
+[1;31m Red [0m
+[1;4;37;42m Green [0m
+[1;43m Yellow [0m
+Finished: SUCCESS

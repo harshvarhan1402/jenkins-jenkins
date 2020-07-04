@@ -1,0 +1,6 @@
+Started by user [8mha:////4JPktyxxRWnCoVijRwFbGecefVmwP45tcBnMf67kUL96AAAApB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzhEgYJ/dLi1CL94sSc1OK0/KLk1JSizJyc1KJiAJ3zul3NAAAA[0msalesforce-drillers
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[8mha:////4KFJpFTmUMK+57i0F9i/vKnpXNfBcca7vHqNW3SMocpZAAAAqx+LCAAAAAAAAP9b85aBtbiIQSujNKU4P0+vIKc0PTOvWC8xrzgzOT8nv0gvMbkkEyjhCKb88ktSdwVsu2efuqidiYHRh4EDIu2ZUsIg5JOVWJaon5OYl64fXFKUmZduXVHEIAU1ODk/rzg/J1XPGUKDDGKAAEYmBoaKghIGFVML8yRjQwMzXaNEMwtdk6S0NN1EC8sUXTMzC3MjI1MjS1PLVAAyn6R/rwAAAA==[0m[my-first-job] $ /bin/sh -xe /tmp/jenkins8588986659887090510.sh
++ set +x
+Finished: SUCCESS

@@ -1,0 +1,8 @@
+Started by user [8mha:////4JPktyxxRWnCoVijRwFbGecefVmwP45tcBnMf67kUL96AAAApB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzhEgYJ/dLi1CL94sSc1OK0/KLk1JSizJyc1KJiAJ3zul3NAAAA[0msalesforce-drillers
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-second-job
+[8mha:////4OVvEgvs5REBgnyG0dzbTueRmeSrE5oWm8R3O64AkZK2AAAAqx+LCAAAAAAAAP9b85aBtbiIQSujNKU4P0+vIKc0PTOvWC8xrzgzOT8nv0gvMbkkEyjhCKb88ktSdwVsu2efuqidiYHRh4EDIu2ZUsIg5JOVWJaon5OYl64fXFKUmZduXVHEIAU1ODk/rzg/J1XPGUKDDGKAAEYmBoaKghIGlZRkcxMjY8sUXTPT1CRdE1OzVF0Ls5QUXQNDU1OzFCOTNEPTFADRFT3OrwAAAA==[0m[my-second-job] $ /bin/sh -xe /tmp/jenkins505726194211556390.sh
++ red
++ echo -e \033[31m #####Red######\033[0m
+-e [31m #####Red######[0m
+Finished: SUCCESS

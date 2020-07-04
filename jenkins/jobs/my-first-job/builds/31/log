@@ -1,0 +1,33 @@
+Started by user [8mha:////4JPktyxxRWnCoVijRwFbGecefVmwP45tcBnMf67kUL96AAAApB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzhEgYJ/dLi1CL94sSc1OK0/KLk1JSizJyc1KJiAJ3zul3NAAAA[0msalesforce-drillers
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[8mha:////4NIJz2c+07dDdhBf5+0TuIPExExvnwSOP2+DNCwSmcQwAAAAqx+LCAAAAAAAAP9b85aBtbiIQSujNKU4P0+vIKc0PTOvWC8xrzgzOT8nv0gvMbkkEyjhCKb88ktSdwVsu2efuqidiYHRh4EDIu2ZUsIg5JOVWJaon5OYl64fXFKUmZduXVHEIAU1ODk/rzg/J1XPGUKDDGKAAEYmBoaKghIGlRRLQ6M0CwsTXUtzkzRdkyTTFF0LE7NUXUNTAwMDC/NEEwMDIwAPASEVrwAAAA==[0m[my-first-job] $ /bin/sh -xe /tmp/jenkins5956621580352982330.sh
++ set +x
+[1;32m[#####   LISTING CONTENTS   #####] [0m 
+com.cloudbees.hudson.plugins.folder.config.AbstractFolderConfiguration.xml
+config.xml
+copy_reference_file.log
+hudson.model.UpdateCenter.xml
+hudson.plugins.git.GitTool.xml
+identity.key.enc
+jenkins.install.InstallUtil.lastExecVersion
+jenkins.install.UpgradeWizard.state
+jenkins.model.JenkinsLocationConfiguration.xml
+jenkins.telemetry.Correlator.xml
+jobs
+logs
+nodeMonitors.xml
+nodes
+plugins
+queue.xml
+queue.xml.bak
+secret.key
+secret.key.not-so-secret
+secrets
+updates
+userContent
+users
+war
+workflow-libs
+workspace
+Finished: SUCCESS
